@@ -1,0 +1,601 @@
+month,product_series,category_segment,units_sold,avg_price_inr,festival_flag,monsoon_flag,school_reopening_flag,covid_disruption_flag,promo_flag,competitor_dark_store_count,society_occupancy_pct,online_channel_share_pct
+2021-04,Staples (Atta/Rice/Dal),economy,2275,56,0,0,0,1,0,0,55.3,0
+2021-04,Dairy & Bakery,mass,1516,47,0,0,0,1,0,0,55.3,0
+2021-04,Fruits & Vegetables,mass,1878,39,0,0,0,1,0,0,55.3,0
+2021-04,Snacks & Packaged Foods,mass,1280,34,0,0,0,1,0,0,55.3,0
+2021-04,Beverages (Tea/Coffee/Soft Drinks),mass,1183,59,0,0,0,1,0,0,55.3,0
+2021-04,Personal Care & Hygiene,premium,563,116,0,0,0,1,0,0,55.3,0
+2021-04,Home Care & Cleaning,mass,901,84,0,0,0,1,0,0,55.3,0
+2021-04,Baby Care,premium,239,149,0,0,0,1,0,0,55.3,0
+2021-04,Frozen & Ready-to-eat,premium,321,92,0,0,0,1,1,0,55.3,0
+2021-04,Confectionery & Chocolates,mass,704,46,0,0,0,1,0,0,55.3,0
+2021-05,Staples (Atta/Rice/Dal),economy,2388,56,0,0,0,1,0,0,55.7,0.5
+2021-05,Dairy & Bakery,mass,1524,48,0,0,0,1,0,0,55.7,0.5
+2021-05,Fruits & Vegetables,mass,1898,39,0,0,0,1,0,0,55.7,0.5
+2021-05,Snacks & Packaged Foods,mass,1300,34,0,0,0,1,0,0,55.7,0.5
+2021-05,Beverages (Tea/Coffee/Soft Drinks),mass,1386,57,0,0,0,1,1,0,55.7,0.5
+2021-05,Personal Care & Hygiene,premium,539,118,0,0,0,1,0,0,55.7,0.5
+2021-05,Home Care & Cleaning,mass,934,86,0,0,0,1,0,0,55.7,0.5
+2021-05,Baby Care,premium,219,152,0,0,0,1,0,0,55.7,0.5
+2021-05,Frozen & Ready-to-eat,premium,280,98,0,0,0,1,0,0,55.7,0.5
+2021-05,Confectionery & Chocolates,mass,689,45,0,0,0,1,0,0,55.7,0.5
+2021-06,Staples (Atta/Rice/Dal),economy,2172,54,0,1,1,1,0,0,56.9,0.3
+2021-06,Dairy & Bakery,mass,1367,49,0,1,1,1,0,0,56.9,0.3
+2021-06,Fruits & Vegetables,mass,1704,40,0,1,1,1,0,0,56.9,0.3
+2021-06,Snacks & Packaged Foods,mass,1603,35,0,1,1,1,0,0,56.9,0.3
+2021-06,Beverages (Tea/Coffee/Soft Drinks),mass,1116,60,0,1,1,1,0,0,56.9,0.3
+2021-06,Personal Care & Hygiene,premium,537,123,0,1,1,1,0,0,56.9,0.3
+2021-06,Home Care & Cleaning,mass,963,88,0,1,1,1,0,0,56.9,0.3
+2021-06,Baby Care,premium,263,146,0,1,1,1,0,0,56.9,0.3
+2021-06,Frozen & Ready-to-eat,premium,336,92,0,1,1,1,1,0,56.9,0.3
+2021-06,Confectionery & Chocolates,mass,629,45,0,1,1,1,0,0,56.9,0.3
+2021-07,Staples (Atta/Rice/Dal),economy,1878,53,0,1,1,0,0,0,57.9,0
+2021-07,Dairy & Bakery,mass,1635,48,0,1,1,0,0,0,57.9,0
+2021-07,Fruits & Vegetables,mass,2002,39,0,1,1,0,0,0,57.9,0
+2021-07,Snacks & Packaged Foods,mass,1716,36,0,1,1,0,0,0,57.9,0
+2021-07,Beverages (Tea/Coffee/Soft Drinks),mass,1263,60,0,1,1,0,0,0,57.9,0
+2021-07,Personal Care & Hygiene,premium,630,123,0,1,1,0,0,0,57.9,0
+2021-07,Home Care & Cleaning,mass,824,86,0,1,1,0,0,0,57.9,0
+2021-07,Baby Care,premium,322,150,0,1,1,0,0,0,57.9,0
+2021-07,Frozen & Ready-to-eat,premium,351,92,0,1,1,0,0,0,57.9,0
+2021-07,Confectionery & Chocolates,mass,848,46,0,1,1,0,0,0,57.9,0
+2021-08,Staples (Atta/Rice/Dal),economy,1718,56,0,1,0,0,0,0,58.3,0.3
+2021-08,Dairy & Bakery,mass,1532,48,0,1,0,0,0,0,58.3,0.3
+2021-08,Fruits & Vegetables,mass,2455,39,0,1,0,0,1,0,58.3,0.3
+2021-08,Snacks & Packaged Foods,mass,1809,33,0,1,0,0,1,0,58.3,0.3
+2021-08,Beverages (Tea/Coffee/Soft Drinks),mass,1369,60,0,1,0,0,0,0,58.3,0.3
+2021-08,Personal Care & Hygiene,premium,608,122,0,1,0,0,0,0,58.3,0.3
+2021-08,Home Care & Cleaning,mass,798,88,0,1,0,0,0,0,58.3,0.3
+2021-08,Baby Care,premium,250,150,0,1,0,0,0,0,58.3,0.3
+2021-08,Frozen & Ready-to-eat,premium,409,89,0,1,0,0,1,0,58.3,0.3
+2021-08,Confectionery & Chocolates,mass,878,44,0,1,0,0,0,0,58.3,0.3
+2021-09,Staples (Atta/Rice/Dal),economy,1869,56,0,1,0,0,0,0,57.3,0.1
+2021-09,Dairy & Bakery,mass,1841,46,0,1,0,0,1,0,57.3,0.1
+2021-09,Fruits & Vegetables,mass,1863,41,0,1,0,0,0,0,57.3,0.1
+2021-09,Snacks & Packaged Foods,mass,1480,36,0,1,0,0,0,0,57.3,0.1
+2021-09,Beverages (Tea/Coffee/Soft Drinks),mass,1239,59,0,1,0,0,0,0,57.3,0.1
+2021-09,Personal Care & Hygiene,premium,589,120,0,1,0,0,0,0,57.3,0.1
+2021-09,Home Care & Cleaning,mass,819,87,0,1,0,0,0,0,57.3,0.1
+2021-09,Baby Care,premium,294,141,0,1,0,0,1,0,57.3,0.1
+2021-09,Frozen & Ready-to-eat,premium,336,93,0,1,0,0,0,0,57.3,0.1
+2021-09,Confectionery & Chocolates,mass,883,44,0,1,0,0,0,0,57.3,0.1
+2021-10,Staples (Atta/Rice/Dal),economy,2192,55,1,0,0,0,0,0,58.3,0.4
+2021-10,Dairy & Bakery,mass,2375,47,1,0,0,0,1,0,58.3,0.4
+2021-10,Fruits & Vegetables,mass,2699,41,1,0,0,0,0,0,58.3,0.4
+2021-10,Snacks & Packaged Foods,mass,2669,33,1,0,0,0,1,0,58.3,0.4
+2021-10,Beverages (Tea/Coffee/Soft Drinks),mass,1568,60,1,0,0,0,0,0,58.3,0.4
+2021-10,Personal Care & Hygiene,premium,681,122,1,0,0,0,0,0,58.3,0.4
+2021-10,Home Care & Cleaning,mass,809,87,1,0,0,0,0,0,58.3,0.4
+2021-10,Baby Care,premium,294,152,1,0,0,0,0,0,58.3,0.4
+2021-10,Frozen & Ready-to-eat,premium,478,93,1,0,0,0,1,0,58.3,0.4
+2021-10,Confectionery & Chocolates,mass,1440,46,1,0,0,0,0,0,58.3,0.4
+2021-11,Staples (Atta/Rice/Dal),economy,2196,54,1,0,0,0,0,0,58.5,0.1
+2021-11,Dairy & Bakery,mass,1778,47,1,0,0,0,0,0,58.5,0.1
+2021-11,Fruits & Vegetables,mass,2629,39,1,0,0,0,0,0,58.5,0.1
+2021-11,Snacks & Packaged Foods,mass,2807,33,1,0,0,0,1,0,58.5,0.1
+2021-11,Beverages (Tea/Coffee/Soft Drinks),mass,1683,60,1,0,0,0,0,0,58.5,0.1
+2021-11,Personal Care & Hygiene,premium,704,123,1,0,0,0,0,0,58.5,0.1
+2021-11,Home Care & Cleaning,mass,1009,79,1,0,0,0,1,0,58.5,0.1
+2021-11,Baby Care,premium,299,148,1,0,0,0,0,0,58.5,0.1
+2021-11,Frozen & Ready-to-eat,premium,506,88,1,0,0,0,1,0,58.5,0.1
+2021-11,Confectionery & Chocolates,mass,1522,46,1,0,0,0,0,0,58.5,0.1
+2021-12,Staples (Atta/Rice/Dal),economy,2038,56,0,0,0,0,0,0,59.2,0
+2021-12,Dairy & Bakery,mass,1695,47,0,0,0,0,0,0,59.2,0
+2021-12,Fruits & Vegetables,mass,2426,40,0,0,0,0,0,0,59.2,0
+2021-12,Snacks & Packaged Foods,mass,1644,34,0,0,0,0,0,0,59.2,0
+2021-12,Beverages (Tea/Coffee/Soft Drinks),mass,1366,61,0,0,0,0,0,0,59.2,0
+2021-12,Personal Care & Hygiene,premium,617,117,0,0,0,0,0,0,59.2,0
+2021-12,Home Care & Cleaning,mass,910,80,0,0,0,0,1,0,59.2,0
+2021-12,Baby Care,premium,276,147,0,0,0,0,0,0,59.2,0
+2021-12,Frozen & Ready-to-eat,premium,366,95,0,0,0,0,0,0,59.2,0
+2021-12,Confectionery & Chocolates,mass,1009,44,0,0,0,0,0,0,59.2,0
+2022-01,Staples (Atta/Rice/Dal),economy,2453,53,0,0,0,0,1,0,60.5,0
+2022-01,Dairy & Bakery,mass,1811,48,0,0,0,0,0,0,60.5,0
+2022-01,Fruits & Vegetables,mass,2278,39,0,0,0,0,0,0,60.5,0
+2022-01,Snacks & Packaged Foods,mass,1730,35,0,0,0,0,0,0,60.5,0
+2022-01,Beverages (Tea/Coffee/Soft Drinks),mass,1444,59,0,0,0,0,0,0,60.5,0
+2022-01,Personal Care & Hygiene,premium,774,117,0,0,0,0,1,0,60.5,0
+2022-01,Home Care & Cleaning,mass,803,87,0,0,0,0,0,0,60.5,0
+2022-01,Baby Care,premium,267,146,0,0,0,0,0,0,60.5,0
+2022-01,Frozen & Ready-to-eat,premium,403,94,0,0,0,0,0,0,60.5,0
+2022-01,Confectionery & Chocolates,mass,949,46,0,0,0,0,0,0,60.5,0
+2022-02,Staples (Atta/Rice/Dal),economy,2125,53,0,0,0,0,0,0,62.0,0.5
+2022-02,Dairy & Bakery,mass,1770,49,0,0,0,0,0,0,62.0,0.5
+2022-02,Fruits & Vegetables,mass,2592,41,0,0,0,0,0,0,62.0,0.5
+2022-02,Snacks & Packaged Foods,mass,1751,34,0,0,0,0,0,0,62.0,0.5
+2022-02,Beverages (Tea/Coffee/Soft Drinks),mass,1530,59,0,0,0,0,0,0,62.0,0.5
+2022-02,Personal Care & Hygiene,premium,674,119,0,0,0,0,0,0,62.0,0.5
+2022-02,Home Care & Cleaning,mass,764,83,0,0,0,0,0,0,62.0,0.5
+2022-02,Baby Care,premium,276,153,0,0,0,0,0,0,62.0,0.5
+2022-02,Frozen & Ready-to-eat,premium,385,96,0,0,0,0,0,0,62.0,0.5
+2022-02,Confectionery & Chocolates,mass,1074,45,0,0,0,0,0,0,62.0,0.5
+2022-03,Staples (Atta/Rice/Dal),economy,2174,57,1,0,0,0,0,0,62.8,0
+2022-03,Dairy & Bakery,mass,2298,45,1,0,0,0,1,0,62.8,0
+2022-03,Fruits & Vegetables,mass,2701,40,1,0,0,0,0,0,62.8,0
+2022-03,Snacks & Packaged Foods,mass,2365,35,1,0,0,0,0,0,62.8,0
+2022-03,Beverages (Tea/Coffee/Soft Drinks),mass,2191,55,1,0,0,0,1,0,62.8,0
+2022-03,Personal Care & Hygiene,premium,757,122,1,0,0,0,0,0,62.8,0
+2022-03,Home Care & Cleaning,mass,897,84,1,0,0,0,0,0,62.8,0
+2022-03,Baby Care,premium,384,141,1,0,0,0,1,0,62.8,0
+2022-03,Frozen & Ready-to-eat,premium,550,91,1,0,0,0,1,0,62.8,0
+2022-03,Confectionery & Chocolates,mass,1807,43,1,0,0,0,1,0,62.8,0
+2022-04,Staples (Atta/Rice/Dal),economy,2423,58,0,0,0,0,1,0,62.3,0
+2022-04,Dairy & Bakery,mass,1900,53,0,0,0,0,0,0,62.3,0
+2022-04,Fruits & Vegetables,mass,2506,42,0,0,0,0,0,0,62.3,0
+2022-04,Snacks & Packaged Foods,mass,1685,38,0,0,0,0,0,0,62.3,0
+2022-04,Beverages (Tea/Coffee/Soft Drinks),mass,1466,65,0,0,0,0,0,0,62.3,0
+2022-04,Personal Care & Hygiene,premium,677,134,0,0,0,0,0,0,62.3,0
+2022-04,Home Care & Cleaning,mass,761,90,0,0,0,0,0,0,62.3,0
+2022-04,Baby Care,premium,288,162,0,0,0,0,0,0,62.3,0
+2022-04,Frozen & Ready-to-eat,premium,408,105,0,0,0,0,0,0,62.3,0
+2022-04,Confectionery & Chocolates,mass,983,48,0,0,0,0,0,0,62.3,0
+2022-05,Staples (Atta/Rice/Dal),economy,1944,60,0,0,0,0,0,0,62.6,0
+2022-05,Dairy & Bakery,mass,1754,53,0,0,0,0,0,0,62.6,0
+2022-05,Fruits & Vegetables,mass,2427,44,0,0,0,0,0,0,62.6,0
+2022-05,Snacks & Packaged Foods,mass,2110,37,0,0,0,0,1,0,62.6,0
+2022-05,Beverages (Tea/Coffee/Soft Drinks),mass,1760,61,0,0,0,0,1,0,62.6,0
+2022-05,Personal Care & Hygiene,premium,684,127,0,0,0,0,0,0,62.6,0
+2022-05,Home Care & Cleaning,mass,830,92,0,0,0,0,0,0,62.6,0
+2022-05,Baby Care,premium,290,168,0,0,0,0,0,0,62.6,0
+2022-05,Frozen & Ready-to-eat,premium,420,106,0,0,0,0,0,0,62.6,0
+2022-05,Confectionery & Chocolates,mass,1051,49,0,0,0,0,0,0,62.6,0
+2022-06,Staples (Atta/Rice/Dal),economy,2061,60,0,1,1,0,0,0,64.4,0
+2022-06,Dairy & Bakery,mass,1726,53,0,1,1,0,0,0,64.4,0
+2022-06,Fruits & Vegetables,mass,2195,44,0,1,1,0,0,0,64.4,0
+2022-06,Snacks & Packaged Foods,mass,1822,38,0,1,1,0,0,0,64.4,0
+2022-06,Beverages (Tea/Coffee/Soft Drinks),mass,1415,66,0,1,1,0,0,0,64.4,0
+2022-06,Personal Care & Hygiene,premium,775,126,0,1,1,0,1,0,64.4,0
+2022-06,Home Care & Cleaning,mass,854,92,0,1,1,0,0,0,64.4,0
+2022-06,Baby Care,premium,344,161,0,1,1,0,0,0,64.4,0
+2022-06,Frozen & Ready-to-eat,premium,408,104,0,1,1,0,0,0,64.4,0
+2022-06,Confectionery & Chocolates,mass,1044,50,0,1,1,0,0,0,64.4,0
+2022-07,Staples (Atta/Rice/Dal),economy,2032,61,0,1,1,0,0,1,64.2,0
+2022-07,Dairy & Bakery,mass,1736,53,0,1,1,0,0,1,64.2,0
+2022-07,Fruits & Vegetables,mass,2183,43,0,1,1,0,0,1,64.2,0
+2022-07,Snacks & Packaged Foods,mass,1832,37,0,1,1,0,0,1,64.2,0
+2022-07,Beverages (Tea/Coffee/Soft Drinks),mass,1421,65,0,1,1,0,0,1,64.2,0
+2022-07,Personal Care & Hygiene,premium,655,128,0,1,1,0,0,1,64.2,0
+2022-07,Home Care & Cleaning,mass,838,92,0,1,1,0,0,1,64.2,0
+2022-07,Baby Care,premium,323,165,0,1,1,0,0,1,64.2,0
+2022-07,Frozen & Ready-to-eat,premium,447,96,0,1,1,0,1,1,64.2,0
+2022-07,Confectionery & Chocolates,mass,930,49,0,1,1,0,0,1,64.2,0
+2022-08,Staples (Atta/Rice/Dal),economy,2095,59,0,1,0,0,0,1,65.6,0
+2022-08,Dairy & Bakery,mass,2025,50,0,1,0,0,1,1,65.6,0
+2022-08,Fruits & Vegetables,mass,2164,44,0,1,0,0,0,1,65.6,0
+2022-08,Snacks & Packaged Foods,mass,1670,39,0,1,0,0,0,1,65.6,0
+2022-08,Beverages (Tea/Coffee/Soft Drinks),mass,1370,64,0,1,0,0,0,1,65.6,0
+2022-08,Personal Care & Hygiene,premium,642,132,0,1,0,0,0,1,65.6,0
+2022-08,Home Care & Cleaning,mass,877,94,0,1,0,0,0,1,65.6,0
+2022-08,Baby Care,premium,269,165,0,1,0,0,0,1,65.6,0
+2022-08,Frozen & Ready-to-eat,premium,365,106,0,1,0,0,0,1,65.6,0
+2022-08,Confectionery & Chocolates,mass,938,48,0,1,0,0,0,1,65.6,0
+2022-09,Staples (Atta/Rice/Dal),economy,1982,61,0,1,0,0,0,1,65.3,0.2
+2022-09,Dairy & Bakery,mass,2190,50,0,1,0,0,1,1,65.3,0.2
+2022-09,Fruits & Vegetables,mass,2720,42,0,1,0,0,1,1,65.3,0.2
+2022-09,Snacks & Packaged Foods,mass,1559,39,0,1,0,0,0,1,65.3,0.2
+2022-09,Beverages (Tea/Coffee/Soft Drinks),mass,1390,65,0,1,0,0,0,1,65.3,0.2
+2022-09,Personal Care & Hygiene,premium,669,130,0,1,0,0,0,1,65.3,0.2
+2022-09,Home Care & Cleaning,mass,939,90,0,1,0,0,0,1,65.3,0.2
+2022-09,Baby Care,premium,283,167,0,1,0,0,0,1,65.3,0.2
+2022-09,Frozen & Ready-to-eat,premium,378,105,0,1,0,0,0,1,65.3,0.2
+2022-09,Confectionery & Chocolates,mass,953,50,0,1,0,0,0,1,65.3,0.2
+2022-10,Staples (Atta/Rice/Dal),economy,2427,59,1,0,0,0,0,1,66.4,0
+2022-10,Dairy & Bakery,mass,2183,51,1,0,0,0,0,1,66.4,0
+2022-10,Fruits & Vegetables,mass,2798,44,1,0,0,0,0,1,66.4,0
+2022-10,Snacks & Packaged Foods,mass,2411,37,1,0,0,0,0,1,66.4,0
+2022-10,Beverages (Tea/Coffee/Soft Drinks),mass,1748,64,1,0,0,0,0,1,66.4,0
+2022-10,Personal Care & Hygiene,premium,772,134,1,0,0,0,0,1,66.4,0
+2022-10,Home Care & Cleaning,mass,894,90,1,0,0,0,0,1,66.4,0
+2022-10,Baby Care,premium,312,166,1,0,0,0,0,1,66.4,0
+2022-10,Frozen & Ready-to-eat,premium,462,105,1,0,0,0,0,1,66.4,0
+2022-10,Confectionery & Chocolates,mass,1571,50,1,0,0,0,0,1,66.4,0
+2022-11,Staples (Atta/Rice/Dal),economy,2296,60,1,0,0,0,0,1,66.1,0
+2022-11,Dairy & Bakery,mass,2098,52,1,0,0,0,0,1,66.1,0
+2022-11,Fruits & Vegetables,mass,2815,44,1,0,0,0,0,1,66.1,0
+2022-11,Snacks & Packaged Foods,mass,2835,35,1,0,0,0,1,1,66.1,0
+2022-11,Beverages (Tea/Coffee/Soft Drinks),mass,2072,62,1,0,0,0,1,1,66.1,0
+2022-11,Personal Care & Hygiene,premium,754,129,1,0,0,0,0,1,66.1,0
+2022-11,Home Care & Cleaning,mass,939,95,1,0,0,0,0,1,66.1,0
+2022-11,Baby Care,premium,318,160,1,0,0,0,0,1,66.1,0
+2022-11,Frozen & Ready-to-eat,premium,518,96,1,0,0,0,1,1,66.1,0
+2022-11,Confectionery & Chocolates,mass,1886,46,1,0,0,0,1,1,66.1,0
+2022-12,Staples (Atta/Rice/Dal),economy,2116,61,0,0,0,0,0,1,68.5,0.1
+2022-12,Dairy & Bakery,mass,2057,53,0,0,0,0,0,1,68.5,0.1
+2022-12,Fruits & Vegetables,mass,2688,43,0,0,0,0,0,1,68.5,0.1
+2022-12,Snacks & Packaged Foods,mass,2278,36,0,0,0,0,1,1,68.5,0.1
+2022-12,Beverages (Tea/Coffee/Soft Drinks),mass,1544,64,0,0,0,0,0,1,68.5,0.1
+2022-12,Personal Care & Hygiene,premium,699,128,0,0,0,0,0,1,68.5,0.1
+2022-12,Home Care & Cleaning,mass,841,95,0,0,0,0,0,1,68.5,0.1
+2022-12,Baby Care,premium,381,156,0,0,0,0,1,1,68.5,0.1
+2022-12,Frozen & Ready-to-eat,premium,407,104,0,0,0,0,0,1,68.5,0.1
+2022-12,Confectionery & Chocolates,mass,1075,50,0,0,0,0,0,1,68.5,0.1
+2023-01,Staples (Atta/Rice/Dal),economy,2268,61,0,0,0,0,0,1,69.1,0.8
+2023-01,Dairy & Bakery,mass,1920,51,0,0,0,0,0,1,69.1,0.8
+2023-01,Fruits & Vegetables,mass,2624,43,0,0,0,0,0,1,69.1,0.8
+2023-01,Snacks & Packaged Foods,mass,2056,36,0,0,0,0,1,1,69.1,0.8
+2023-01,Beverages (Tea/Coffee/Soft Drinks),mass,1540,64,0,0,0,0,0,1,69.1,0.8
+2023-01,Personal Care & Hygiene,premium,764,130,0,0,0,0,0,1,69.1,0.8
+2023-01,Home Care & Cleaning,mass,915,94,0,0,0,0,0,1,69.1,0.8
+2023-01,Baby Care,premium,317,168,0,0,0,0,0,1,69.1,0.8
+2023-01,Frozen & Ready-to-eat,premium,427,104,0,0,0,0,0,1,69.1,0.8
+2023-01,Confectionery & Chocolates,mass,1136,48,0,0,0,0,0,1,69.1,0.8
+2023-02,Staples (Atta/Rice/Dal),economy,2230,59,0,0,0,0,0,1,68.1,1.7
+2023-02,Dairy & Bakery,mass,2412,50,0,0,0,0,1,1,68.1,1.7
+2023-02,Fruits & Vegetables,mass,2703,44,0,0,0,0,0,1,68.1,1.7
+2023-02,Snacks & Packaged Foods,mass,2041,36,0,0,0,0,1,1,68.1,1.7
+2023-02,Beverages (Tea/Coffee/Soft Drinks),mass,1513,64,0,0,0,0,0,1,68.1,1.7
+2023-02,Personal Care & Hygiene,premium,767,131,0,0,0,0,0,1,68.1,1.7
+2023-02,Home Care & Cleaning,mass,912,94,0,0,0,0,0,1,68.1,1.7
+2023-02,Baby Care,premium,290,166,0,0,0,0,0,1,68.1,1.7
+2023-02,Frozen & Ready-to-eat,premium,428,106,0,0,0,0,0,1,68.1,1.7
+2023-02,Confectionery & Chocolates,mass,1091,49,0,0,0,0,0,1,68.1,1.7
+2023-03,Staples (Atta/Rice/Dal),economy,2920,58,1,0,0,0,1,1,69.4,2.4
+2023-03,Dairy & Bakery,mass,2162,53,1,0,0,0,0,1,69.4,2.4
+2023-03,Fruits & Vegetables,mass,3837,42,1,0,0,0,1,1,69.4,2.4
+2023-03,Snacks & Packaged Foods,mass,2558,38,1,0,0,0,0,1,69.4,2.4
+2023-03,Beverages (Tea/Coffee/Soft Drinks),mass,2423,62,1,0,0,0,1,1,69.4,2.4
+2023-03,Personal Care & Hygiene,premium,876,132,1,0,0,0,0,1,69.4,2.4
+2023-03,Home Care & Cleaning,mass,956,91,1,0,0,0,0,1,69.4,2.4
+2023-03,Baby Care,premium,356,165,1,0,0,0,0,1,69.4,2.4
+2023-03,Frozen & Ready-to-eat,premium,455,104,1,0,0,0,0,1,69.4,2.4
+2023-03,Confectionery & Chocolates,mass,1641,50,1,0,0,0,0,1,69.4,2.4
+2023-04,Staples (Atta/Rice/Dal),economy,2194,62,0,0,0,0,0,1,69.3,4.3
+2023-04,Dairy & Bakery,mass,2026,54,0,0,0,0,0,1,69.3,4.3
+2023-04,Fruits & Vegetables,mass,2905,46,0,0,0,0,0,1,69.3,4.3
+2023-04,Snacks & Packaged Foods,mass,2300,38,0,0,0,0,1,1,69.3,4.3
+2023-04,Beverages (Tea/Coffee/Soft Drinks),mass,1599,68,0,0,0,0,0,1,69.3,4.3
+2023-04,Personal Care & Hygiene,premium,798,136,0,0,0,0,0,1,69.3,4.3
+2023-04,Home Care & Cleaning,mass,868,101,0,0,0,0,0,1,69.3,4.3
+2023-04,Baby Care,premium,329,177,0,0,0,0,0,1,69.3,4.3
+2023-04,Frozen & Ready-to-eat,premium,445,109,0,0,0,0,0,1,69.3,4.3
+2023-04,Confectionery & Chocolates,mass,1107,53,0,0,0,0,0,1,69.3,4.3
+2023-05,Staples (Atta/Rice/Dal),economy,2433,63,0,0,0,0,0,1,70.2,4.5
+2023-05,Dairy & Bakery,mass,2460,52,0,0,0,0,1,1,70.2,4.5
+2023-05,Fruits & Vegetables,mass,2820,46,0,0,0,0,0,1,70.2,4.5
+2023-05,Snacks & Packaged Foods,mass,1799,41,0,0,0,0,0,1,70.2,4.5
+2023-05,Beverages (Tea/Coffee/Soft Drinks),mass,1567,70,0,0,0,0,0,1,70.2,4.5
+2023-05,Personal Care & Hygiene,premium,945,133,0,0,0,0,1,1,70.2,4.5
+2023-05,Home Care & Cleaning,mass,880,99,0,0,0,0,0,1,70.2,4.5
+2023-05,Baby Care,premium,337,173,0,0,0,0,0,1,70.2,4.5
+2023-05,Frozen & Ready-to-eat,premium,523,105,0,0,0,0,1,1,70.2,4.5
+2023-05,Confectionery & Chocolates,mass,1171,52,0,0,0,0,0,1,70.2,4.5
+2023-06,Staples (Atta/Rice/Dal),economy,2200,64,0,1,1,0,0,1,71.4,5.7
+2023-06,Dairy & Bakery,mass,1970,57,0,1,1,0,0,1,71.4,5.7
+2023-06,Fruits & Vegetables,mass,2489,47,0,1,1,0,0,1,71.4,5.7
+2023-06,Snacks & Packaged Foods,mass,2170,41,0,1,1,0,0,1,71.4,5.7
+2023-06,Beverages (Tea/Coffee/Soft Drinks),mass,1535,70,0,1,1,0,0,1,71.4,5.7
+2023-06,Personal Care & Hygiene,premium,775,135,0,1,1,0,0,1,71.4,5.7
+2023-06,Home Care & Cleaning,mass,1221,96,0,1,1,0,1,1,71.4,5.7
+2023-06,Baby Care,premium,398,173,0,1,1,0,0,1,71.4,5.7
+2023-06,Frozen & Ready-to-eat,premium,515,107,0,1,1,0,1,1,71.4,5.7
+2023-06,Confectionery & Chocolates,mass,1112,53,0,1,1,0,0,1,71.4,5.7
+2023-07,Staples (Atta/Rice/Dal),economy,2159,62,0,1,1,0,0,2,71.0,6.9
+2023-07,Dairy & Bakery,mass,1964,56,0,1,1,0,0,2,71.0,6.9
+2023-07,Fruits & Vegetables,mass,2276,47,0,1,1,0,0,2,71.0,6.9
+2023-07,Snacks & Packaged Foods,mass,1939,41,0,1,1,0,0,2,71.0,6.9
+2023-07,Beverages (Tea/Coffee/Soft Drinks),mass,1801,65,0,1,1,0,1,2,71.0,6.9
+2023-07,Personal Care & Hygiene,premium,688,141,0,1,1,0,0,2,71.0,6.9
+2023-07,Home Care & Cleaning,mass,1008,96,0,1,1,0,0,2,71.0,6.9
+2023-07,Baby Care,premium,373,174,0,1,1,0,0,2,71.0,6.9
+2023-07,Frozen & Ready-to-eat,premium,402,108,0,1,1,0,0,2,71.0,6.9
+2023-07,Confectionery & Chocolates,mass,1006,52,0,1,1,0,0,2,71.0,6.9
+2023-08,Staples (Atta/Rice/Dal),economy,2260,65,0,1,0,0,0,2,72.5,7.3
+2023-08,Dairy & Bakery,mass,2105,56,0,1,0,0,0,2,72.5,7.3
+2023-08,Fruits & Vegetables,mass,2469,47,0,1,0,0,0,2,72.5,7.3
+2023-08,Snacks & Packaged Foods,mass,1683,41,0,1,0,0,0,2,72.5,7.3
+2023-08,Beverages (Tea/Coffee/Soft Drinks),mass,1616,68,0,1,0,0,0,2,72.5,7.3
+2023-08,Personal Care & Hygiene,premium,756,137,0,1,0,0,0,2,72.5,7.3
+2023-08,Home Care & Cleaning,mass,1023,99,0,1,0,0,0,2,72.5,7.3
+2023-08,Baby Care,premium,317,177,0,1,0,0,0,2,72.5,7.3
+2023-08,Frozen & Ready-to-eat,premium,435,111,0,1,0,0,0,2,72.5,7.3
+2023-08,Confectionery & Chocolates,mass,1060,52,0,1,0,0,0,2,72.5,7.3
+2023-09,Staples (Atta/Rice/Dal),economy,2349,62,0,1,0,0,0,2,73.7,8.1
+2023-09,Dairy & Bakery,mass,2445,54,0,1,0,0,1,2,73.7,8.1
+2023-09,Fruits & Vegetables,mass,2619,47,0,1,0,0,0,2,73.7,8.1
+2023-09,Snacks & Packaged Foods,mass,1882,40,0,1,0,0,0,2,73.7,8.1
+2023-09,Beverages (Tea/Coffee/Soft Drinks),mass,1617,69,0,1,0,0,0,2,73.7,8.1
+2023-09,Personal Care & Hygiene,premium,963,129,0,1,0,0,1,2,73.7,8.1
+2023-09,Home Care & Cleaning,mass,1072,99,0,1,0,0,0,2,73.7,8.1
+2023-09,Baby Care,premium,335,176,0,1,0,0,0,2,73.7,8.1
+2023-09,Frozen & Ready-to-eat,premium,437,107,0,1,0,0,0,2,73.7,8.1
+2023-09,Confectionery & Chocolates,mass,1081,53,0,1,0,0,0,2,73.7,8.1
+2023-10,Staples (Atta/Rice/Dal),economy,2811,62,1,0,0,0,0,2,74.2,9.6
+2023-10,Dairy & Bakery,mass,2685,54,1,0,0,0,1,2,74.2,9.6
+2023-10,Fruits & Vegetables,mass,3426,45,1,0,0,0,0,2,74.2,9.6
+2023-10,Snacks & Packaged Foods,mass,3363,39,1,0,0,0,1,2,74.2,9.6
+2023-10,Beverages (Tea/Coffee/Soft Drinks),mass,2379,64,1,0,0,0,1,2,74.2,9.6
+2023-10,Personal Care & Hygiene,premium,869,139,1,0,0,0,0,2,74.2,9.6
+2023-10,Home Care & Cleaning,mass,1304,91,1,0,0,0,1,2,74.2,9.6
+2023-10,Baby Care,premium,378,176,1,0,0,0,0,2,74.2,9.6
+2023-10,Frozen & Ready-to-eat,premium,490,111,1,0,0,0,0,2,74.2,9.6
+2023-10,Confectionery & Chocolates,mass,2060,48,1,0,0,0,1,2,74.2,9.6
+2023-11,Staples (Atta/Rice/Dal),economy,2532,63,1,0,0,0,0,2,74.4,10.4
+2023-11,Dairy & Bakery,mass,2513,57,1,0,0,0,0,2,74.4,10.4
+2023-11,Fruits & Vegetables,mass,4021,44,1,0,0,0,1,2,74.4,10.4
+2023-11,Snacks & Packaged Foods,mass,2665,40,1,0,0,0,0,2,74.4,10.4
+2023-11,Beverages (Tea/Coffee/Soft Drinks),mass,2307,67,1,0,0,0,1,2,74.4,10.4
+2023-11,Personal Care & Hygiene,premium,911,140,1,0,0,0,0,2,74.4,10.4
+2023-11,Home Care & Cleaning,mass,983,100,1,0,0,0,0,2,74.4,10.4
+2023-11,Baby Care,premium,427,165,1,0,0,0,1,2,74.4,10.4
+2023-11,Frozen & Ready-to-eat,premium,615,102,1,0,0,0,1,2,74.4,10.4
+2023-11,Confectionery & Chocolates,mass,2184,49,1,0,0,0,1,2,74.4,10.4
+2023-12,Staples (Atta/Rice/Dal),economy,3062,59,0,0,0,0,1,2,74.4,11.8
+2023-12,Dairy & Bakery,mass,2532,52,0,0,0,0,1,2,74.4,11.8
+2023-12,Fruits & Vegetables,mass,2820,45,0,0,0,0,0,2,74.4,11.8
+2023-12,Snacks & Packaged Foods,mass,1882,40,0,0,0,0,0,2,74.4,11.8
+2023-12,Beverages (Tea/Coffee/Soft Drinks),mass,1593,70,0,0,0,0,0,2,74.4,11.8
+2023-12,Personal Care & Hygiene,premium,840,138,0,0,0,0,0,2,74.4,11.8
+2023-12,Home Care & Cleaning,mass,953,96,0,0,0,0,0,2,74.4,11.8
+2023-12,Baby Care,premium,358,169,0,0,0,0,0,2,74.4,11.8
+2023-12,Frozen & Ready-to-eat,premium,473,110,0,0,0,0,0,2,74.4,11.8
+2023-12,Confectionery & Chocolates,mass,1231,51,0,0,0,0,0,2,74.4,11.8
+2024-01,Staples (Atta/Rice/Dal),economy,2489,65,0,0,0,0,0,2,75.7,12.3
+2024-01,Dairy & Bakery,mass,2525,53,0,0,0,0,1,2,75.7,12.3
+2024-01,Fruits & Vegetables,mass,3557,44,0,0,0,0,1,2,75.7,12.3
+2024-01,Snacks & Packaged Foods,mass,1938,42,0,0,0,0,0,2,75.7,12.3
+2024-01,Beverages (Tea/Coffee/Soft Drinks),mass,1706,70,0,0,0,0,0,2,75.7,12.3
+2024-01,Personal Care & Hygiene,premium,1021,134,0,0,0,0,1,2,75.7,12.3
+2024-01,Home Care & Cleaning,mass,1001,99,0,0,0,0,0,2,75.7,12.3
+2024-01,Baby Care,premium,344,170,0,0,0,0,0,2,75.7,12.3
+2024-01,Frozen & Ready-to-eat,premium,459,109,0,0,0,0,0,2,75.7,12.3
+2024-01,Confectionery & Chocolates,mass,1412,50,0,0,0,0,1,2,75.7,12.3
+2024-02,Staples (Atta/Rice/Dal),economy,2379,65,0,0,0,0,0,2,76.1,13.0
+2024-02,Dairy & Bakery,mass,2547,53,0,0,0,0,1,2,76.1,13.0
+2024-02,Fruits & Vegetables,mass,3088,46,0,0,0,0,0,2,76.1,13.0
+2024-02,Snacks & Packaged Foods,mass,1952,40,0,0,0,0,0,2,76.1,13.0
+2024-02,Beverages (Tea/Coffee/Soft Drinks),mass,1761,70,0,0,0,0,0,2,76.1,13.0
+2024-02,Personal Care & Hygiene,premium,859,142,0,0,0,0,0,2,76.1,13.0
+2024-02,Home Care & Cleaning,mass,959,99,0,0,0,0,0,2,76.1,13.0
+2024-02,Baby Care,premium,355,170,0,0,0,0,0,2,76.1,13.0
+2024-02,Frozen & Ready-to-eat,premium,581,103,0,0,0,0,1,2,76.1,13.0
+2024-02,Confectionery & Chocolates,mass,1206,53,0,0,0,0,0,2,76.1,13.0
+2024-03,Staples (Atta/Rice/Dal),economy,2865,64,1,0,0,0,0,2,77.6,14.7
+2024-03,Dairy & Bakery,mass,3170,54,1,0,0,0,1,2,77.6,14.7
+2024-03,Fruits & Vegetables,mass,3987,44,1,0,0,0,1,2,77.6,14.7
+2024-03,Snacks & Packaged Foods,mass,3362,37,1,0,0,0,1,2,77.6,14.7
+2024-03,Beverages (Tea/Coffee/Soft Drinks),mass,2139,69,1,0,0,0,0,2,77.6,14.7
+2024-03,Personal Care & Hygiene,premium,1149,128,1,0,0,0,1,2,77.6,14.7
+2024-03,Home Care & Cleaning,mass,1062,98,1,0,0,0,0,2,77.6,14.7
+2024-03,Baby Care,premium,464,167,1,0,0,0,1,2,77.6,14.7
+2024-03,Frozen & Ready-to-eat,premium,528,107,1,0,0,0,0,2,77.6,14.7
+2024-03,Confectionery & Chocolates,mass,2113,50,1,0,0,0,1,2,77.6,14.7
+2024-04,Staples (Atta/Rice/Dal),economy,2577,67,0,0,0,0,0,2,77.9,15.0
+2024-04,Dairy & Bakery,mass,2365,57,0,0,0,0,0,2,77.9,15.0
+2024-04,Fruits & Vegetables,mass,3073,49,0,0,0,0,0,2,77.9,15.0
+2024-04,Snacks & Packaged Foods,mass,2091,41,0,0,0,0,0,2,77.9,15.0
+2024-04,Beverages (Tea/Coffee/Soft Drinks),mass,1798,71,0,0,0,0,0,2,77.9,15.0
+2024-04,Personal Care & Hygiene,premium,831,142,0,0,0,0,0,2,77.9,15.0
+2024-04,Home Care & Cleaning,mass,983,100,0,0,0,0,0,2,77.9,15.0
+2024-04,Baby Care,premium,345,181,0,0,0,0,0,2,77.9,15.0
+2024-04,Frozen & Ready-to-eat,premium,478,118,0,0,0,0,0,2,77.9,15.0
+2024-04,Confectionery & Chocolates,mass,1167,56,0,0,0,0,0,2,77.9,15.0
+2024-05,Staples (Atta/Rice/Dal),economy,2678,67,0,0,0,0,0,2,77.3,15.7
+2024-05,Dairy & Bakery,mass,2338,58,0,0,0,0,0,2,77.3,15.7
+2024-05,Fruits & Vegetables,mass,3547,46,0,0,0,0,1,2,77.3,15.7
+2024-05,Snacks & Packaged Foods,mass,2066,43,0,0,0,0,0,2,77.3,15.7
+2024-05,Beverages (Tea/Coffee/Soft Drinks),mass,1679,74,0,0,0,0,0,2,77.3,15.7
+2024-05,Personal Care & Hygiene,premium,864,146,0,0,0,0,0,2,77.3,15.7
+2024-05,Home Care & Cleaning,mass,975,102,0,0,0,0,0,2,77.3,15.7
+2024-05,Baby Care,premium,342,182,0,0,0,0,0,2,77.3,15.7
+2024-05,Frozen & Ready-to-eat,premium,571,112,0,0,0,0,1,2,77.3,15.7
+2024-05,Confectionery & Chocolates,mass,1256,56,0,0,0,0,0,2,77.3,15.7
+2024-06,Staples (Atta/Rice/Dal),economy,2907,64,0,1,1,0,1,2,79.5,16.8
+2024-06,Dairy & Bakery,mass,2276,57,0,1,1,0,0,2,79.5,16.8
+2024-06,Fruits & Vegetables,mass,2747,49,0,1,1,0,0,2,79.5,16.8
+2024-06,Snacks & Packaged Foods,mass,2281,44,0,1,1,0,0,2,79.5,16.8
+2024-06,Beverages (Tea/Coffee/Soft Drinks),mass,1758,73,0,1,1,0,0,2,79.5,16.8
+2024-06,Personal Care & Hygiene,premium,851,143,0,1,1,0,0,2,79.5,16.8
+2024-06,Home Care & Cleaning,mass,1349,97,0,1,1,0,1,2,79.5,16.8
+2024-06,Baby Care,premium,413,182,0,1,1,0,0,2,79.5,16.8
+2024-06,Frozen & Ready-to-eat,premium,463,112,0,1,1,0,0,2,79.5,16.8
+2024-06,Confectionery & Chocolates,mass,1137,56,0,1,1,0,0,2,79.5,16.8
+2024-07,Staples (Atta/Rice/Dal),economy,2502,67,0,1,1,0,0,3,80.2,18.2
+2024-07,Dairy & Bakery,mass,2340,58,0,1,1,0,0,3,80.2,18.2
+2024-07,Fruits & Vegetables,mass,2798,48,0,1,1,0,0,3,80.2,18.2
+2024-07,Snacks & Packaged Foods,mass,2142,41,0,1,1,0,0,3,80.2,18.2
+2024-07,Beverages (Tea/Coffee/Soft Drinks),mass,2119,69,0,1,1,0,1,3,80.2,18.2
+2024-07,Personal Care & Hygiene,premium,838,143,0,1,1,0,0,3,80.2,18.2
+2024-07,Home Care & Cleaning,mass,1123,103,0,1,1,0,0,3,80.2,18.2
+2024-07,Baby Care,premium,418,181,0,1,1,0,0,3,80.2,18.2
+2024-07,Frozen & Ready-to-eat,premium,449,114,0,1,1,0,0,3,80.2,18.2
+2024-07,Confectionery & Chocolates,mass,1207,55,0,1,1,0,0,3,80.2,18.2
+2024-08,Staples (Atta/Rice/Dal),economy,2420,68,0,1,0,0,0,3,79.2,18.6
+2024-08,Dairy & Bakery,mass,2316,60,0,1,0,0,0,3,79.2,18.6
+2024-08,Fruits & Vegetables,mass,2744,47,0,1,0,0,0,3,79.2,18.6
+2024-08,Snacks & Packaged Foods,mass,2030,43,0,1,0,0,0,3,79.2,18.6
+2024-08,Beverages (Tea/Coffee/Soft Drinks),mass,1685,75,0,1,0,0,0,3,79.2,18.6
+2024-08,Personal Care & Hygiene,premium,816,148,0,1,0,0,0,3,79.2,18.6
+2024-08,Home Care & Cleaning,mass,1141,105,0,1,0,0,0,3,79.2,18.6
+2024-08,Baby Care,premium,353,182,0,1,0,0,0,3,79.2,18.6
+2024-08,Frozen & Ready-to-eat,premium,444,114,0,1,0,0,0,3,79.2,18.6
+2024-08,Confectionery & Chocolates,mass,1109,54,0,1,0,0,0,3,79.2,18.6
+2024-09,Staples (Atta/Rice/Dal),economy,2456,65,0,1,0,0,0,3,81.6,19.9
+2024-09,Dairy & Bakery,mass,2173,59,0,1,0,0,0,3,81.6,19.9
+2024-09,Fruits & Vegetables,mass,2937,47,0,1,0,0,0,3,81.6,19.9
+2024-09,Snacks & Packaged Foods,mass,2050,42,0,1,0,0,0,3,81.6,19.9
+2024-09,Beverages (Tea/Coffee/Soft Drinks),mass,1652,74,0,1,0,0,0,3,81.6,19.9
+2024-09,Personal Care & Hygiene,premium,888,143,0,1,0,0,0,3,81.6,19.9
+2024-09,Home Care & Cleaning,mass,1144,104,0,1,0,0,0,3,81.6,19.9
+2024-09,Baby Care,premium,354,180,0,1,0,0,0,3,81.6,19.9
+2024-09,Frozen & Ready-to-eat,premium,461,116,0,1,0,0,0,3,81.6,19.9
+2024-09,Confectionery & Chocolates,mass,1236,55,0,1,0,0,0,3,81.6,19.9
+2024-10,Staples (Atta/Rice/Dal),economy,3168,67,1,0,0,0,0,3,82.0,20.8
+2024-10,Dairy & Bakery,mass,3148,55,1,0,0,0,1,3,82.0,20.8
+2024-10,Fruits & Vegetables,mass,3798,49,1,0,0,0,0,3,82.0,20.8
+2024-10,Snacks & Packaged Foods,mass,3431,41,1,0,0,0,1,3,82.0,20.8
+2024-10,Beverages (Tea/Coffee/Soft Drinks),mass,2204,71,1,0,0,0,0,3,82.0,20.8
+2024-10,Personal Care & Hygiene,premium,1040,144,1,0,0,0,0,3,82.0,20.8
+2024-10,Home Care & Cleaning,mass,1132,106,1,0,0,0,0,3,82.0,20.8
+2024-10,Baby Care,premium,495,178,1,0,0,0,1,3,82.0,20.8
+2024-10,Frozen & Ready-to-eat,premium,645,109,1,0,0,0,1,3,82.0,20.8
+2024-10,Confectionery & Chocolates,mass,2152,52,1,0,0,0,1,3,82.0,20.8
+2024-11,Staples (Atta/Rice/Dal),economy,2814,68,1,0,0,0,0,3,81.4,22.3
+2024-11,Dairy & Bakery,mass,2699,59,1,0,0,0,0,3,81.4,22.3
+2024-11,Fruits & Vegetables,mass,4262,47,1,0,0,0,1,3,81.4,22.3
+2024-11,Snacks & Packaged Foods,mass,2809,43,1,0,0,0,0,3,81.4,22.3
+2024-11,Beverages (Tea/Coffee/Soft Drinks),mass,2052,71,1,0,0,0,0,3,81.4,22.3
+2024-11,Personal Care & Hygiene,premium,1241,139,1,0,0,0,1,3,81.4,22.3
+2024-11,Home Care & Cleaning,mass,1164,101,1,0,0,0,0,3,81.4,22.3
+2024-11,Baby Care,premium,485,168,1,0,0,0,1,3,81.4,22.3
+2024-11,Frozen & Ready-to-eat,premium,557,115,1,0,0,0,0,3,81.4,22.3
+2024-11,Confectionery & Chocolates,mass,2376,52,1,0,0,0,1,3,81.4,22.3
+2024-12,Staples (Atta/Rice/Dal),economy,2605,66,0,0,0,0,0,3,81.6,22.8
+2024-12,Dairy & Bakery,mass,2343,58,0,0,0,0,0,3,81.6,22.8
+2024-12,Fruits & Vegetables,mass,3160,50,0,0,0,0,0,3,81.6,22.8
+2024-12,Snacks & Packaged Foods,mass,2534,40,0,0,0,0,1,3,81.6,22.8
+2024-12,Beverages (Tea/Coffee/Soft Drinks),mass,1836,72,0,0,0,0,0,3,81.6,22.8
+2024-12,Personal Care & Hygiene,premium,922,150,0,0,0,0,0,3,81.6,22.8
+2024-12,Home Care & Cleaning,mass,997,105,0,0,0,0,0,3,81.6,22.8
+2024-12,Baby Care,premium,389,183,0,0,0,0,0,3,81.6,22.8
+2024-12,Frozen & Ready-to-eat,premium,505,114,0,0,0,0,0,3,81.6,22.8
+2024-12,Confectionery & Chocolates,mass,1524,53,0,0,0,0,1,3,81.6,22.8
+2025-01,Staples (Atta/Rice/Dal),economy,2827,67,0,0,0,0,0,3,82.6,24.0
+2025-01,Dairy & Bakery,mass,2327,59,0,0,0,0,0,3,82.6,24.0
+2025-01,Fruits & Vegetables,mass,3292,47,0,0,0,0,0,3,82.6,24.0
+2025-01,Snacks & Packaged Foods,mass,2020,44,0,0,0,0,0,3,82.6,24.0
+2025-01,Beverages (Tea/Coffee/Soft Drinks),mass,1961,73,0,0,0,0,0,3,82.6,24.0
+2025-01,Personal Care & Hygiene,premium,949,143,0,0,0,0,0,3,82.6,24.0
+2025-01,Home Care & Cleaning,mass,1110,105,0,0,0,0,0,3,82.6,24.0
+2025-01,Baby Care,premium,366,181,0,0,0,0,0,3,82.6,24.0
+2025-01,Frozen & Ready-to-eat,premium,513,118,0,0,0,0,0,3,82.6,24.0
+2025-01,Confectionery & Chocolates,mass,1355,55,0,0,0,0,0,3,82.6,24.0
+2025-02,Staples (Atta/Rice/Dal),economy,2911,68,0,0,0,0,0,3,83.8,25.1
+2025-02,Dairy & Bakery,mass,3034,56,0,0,0,0,1,3,83.8,25.1
+2025-02,Fruits & Vegetables,mass,3360,47,0,0,0,0,0,3,83.8,25.1
+2025-02,Snacks & Packaged Foods,mass,2123,43,0,0,0,0,0,3,83.8,25.1
+2025-02,Beverages (Tea/Coffee/Soft Drinks),mass,1927,72,0,0,0,0,0,3,83.8,25.1
+2025-02,Personal Care & Hygiene,premium,1174,137,0,0,0,0,1,3,83.8,25.1
+2025-02,Home Care & Cleaning,mass,1063,106,0,0,0,0,0,3,83.8,25.1
+2025-02,Baby Care,premium,370,184,0,0,0,0,0,3,83.8,25.1
+2025-02,Frozen & Ready-to-eat,premium,526,117,0,0,0,0,0,3,83.8,25.1
+2025-02,Confectionery & Chocolates,mass,1248,55,0,0,0,0,0,3,83.8,25.1
+2025-03,Staples (Atta/Rice/Dal),economy,3889,63,1,0,0,0,1,3,85.0,25.2
+2025-03,Dairy & Bakery,mass,2810,59,1,0,0,0,0,3,85.0,25.2
+2025-03,Fruits & Vegetables,mass,4039,48,1,0,0,0,0,3,85.0,25.2
+2025-03,Snacks & Packaged Foods,mass,3115,43,1,0,0,0,0,3,85.0,25.2
+2025-03,Beverages (Tea/Coffee/Soft Drinks),mass,2335,72,1,0,0,0,0,3,85.0,25.2
+2025-03,Personal Care & Hygiene,premium,1290,138,1,0,0,0,1,3,85.0,25.2
+2025-03,Home Care & Cleaning,mass,1228,102,1,0,0,0,0,3,85.0,25.2
+2025-03,Baby Care,premium,519,178,1,0,0,0,1,3,85.0,25.2
+2025-03,Frozen & Ready-to-eat,premium,713,109,1,0,0,0,1,3,85.0,25.2
+2025-03,Confectionery & Chocolates,mass,2483,52,1,0,0,0,1,3,85.0,25.2
+2025-04,Staples (Atta/Rice/Dal),economy,3543,68,0,0,0,0,1,3,85.9,26.5
+2025-04,Dairy & Bakery,mass,2522,60,0,0,0,0,0,3,85.9,26.5
+2025-04,Fruits & Vegetables,mass,3698,52,0,0,0,0,0,3,85.9,26.5
+2025-04,Snacks & Packaged Foods,mass,2350,45,0,0,0,0,0,3,85.9,26.5
+2025-04,Beverages (Tea/Coffee/Soft Drinks),mass,1940,75,0,0,0,0,0,3,85.9,26.5
+2025-04,Personal Care & Hygiene,premium,921,156,0,0,0,0,0,3,85.9,26.5
+2025-04,Home Care & Cleaning,mass,1357,102,0,0,0,0,1,3,85.9,26.5
+2025-04,Baby Care,premium,404,192,0,0,0,0,0,3,85.9,26.5
+2025-04,Frozen & Ready-to-eat,premium,612,118,0,0,0,0,1,3,85.9,26.5
+2025-04,Confectionery & Chocolates,mass,1346,58,0,0,0,0,0,3,85.9,26.5
+2025-05,Staples (Atta/Rice/Dal),economy,2960,70,0,0,0,0,0,3,86.4,27.1
+2025-05,Dairy & Bakery,mass,2539,63,0,0,0,0,0,3,86.4,27.1
+2025-05,Fruits & Vegetables,mass,3617,50,0,0,0,0,0,3,86.4,27.1
+2025-05,Snacks & Packaged Foods,mass,2234,46,0,0,0,0,0,3,86.4,27.1
+2025-05,Beverages (Tea/Coffee/Soft Drinks),mass,2236,71,0,0,0,0,1,3,86.4,27.1
+2025-05,Personal Care & Hygiene,premium,950,155,0,0,0,0,0,3,86.4,27.1
+2025-05,Home Care & Cleaning,mass,1192,111,0,0,0,0,0,3,86.4,27.1
+2025-05,Baby Care,premium,392,193,0,0,0,0,0,3,86.4,27.1
+2025-05,Frozen & Ready-to-eat,premium,502,120,0,0,0,0,0,3,86.4,27.1
+2025-05,Confectionery & Chocolates,mass,1352,56,0,0,0,0,0,3,86.4,27.1
+2025-06,Staples (Atta/Rice/Dal),economy,2872,71,0,1,1,0,0,3,87.2,28.2
+2025-06,Dairy & Bakery,mass,2506,62,0,1,1,0,0,3,87.2,28.2
+2025-06,Fruits & Vegetables,mass,3471,49,0,1,1,0,1,3,87.2,28.2
+2025-06,Snacks & Packaged Foods,mass,2534,45,0,1,1,0,0,3,87.2,28.2
+2025-06,Beverages (Tea/Coffee/Soft Drinks),mass,1907,76,0,1,1,0,0,3,87.2,28.2
+2025-06,Personal Care & Hygiene,premium,909,157,0,1,1,0,0,3,87.2,28.2
+2025-06,Home Care & Cleaning,mass,1306,109,0,1,1,0,0,3,87.2,28.2
+2025-06,Baby Care,premium,461,186,0,1,1,0,0,3,87.2,28.2
+2025-06,Frozen & Ready-to-eat,premium,504,119,0,1,1,0,0,3,87.2,28.2
+2025-06,Confectionery & Chocolates,mass,1270,58,0,1,1,0,0,3,87.2,28.2
+2025-07,Staples (Atta/Rice/Dal),economy,2660,70,0,1,1,0,0,4,87.5,29.8
+2025-07,Dairy & Bakery,mass,2420,61,0,1,1,0,0,4,87.5,29.8
+2025-07,Fruits & Vegetables,mass,2951,50,0,1,1,0,0,4,87.5,29.8
+2025-07,Snacks & Packaged Foods,mass,2376,45,0,1,1,0,0,4,87.5,29.8
+2025-07,Beverages (Tea/Coffee/Soft Drinks),mass,1895,75,0,1,1,0,0,4,87.5,29.8
+2025-07,Personal Care & Hygiene,premium,936,151,0,1,1,0,0,4,87.5,29.8
+2025-07,Home Care & Cleaning,mass,1253,108,0,1,1,0,0,4,87.5,29.8
+2025-07,Baby Care,premium,472,186,0,1,1,0,0,4,87.5,29.8
+2025-07,Frozen & Ready-to-eat,premium,489,124,0,1,1,0,0,4,87.5,29.8
+2025-07,Confectionery & Chocolates,mass,1235,56,0,1,1,0,0,4,87.5,29.8
+2025-08,Staples (Atta/Rice/Dal),economy,2783,70,0,1,0,0,0,4,87.6,30.8
+2025-08,Dairy & Bakery,mass,2462,63,0,1,0,0,0,4,87.6,30.8
+2025-08,Fruits & Vegetables,mass,3150,51,0,1,0,0,0,4,87.6,30.8
+2025-08,Snacks & Packaged Foods,mass,2120,44,0,1,0,0,0,4,87.6,30.8
+2025-08,Beverages (Tea/Coffee/Soft Drinks),mass,1729,76,0,1,0,0,0,4,87.6,30.8
+2025-08,Personal Care & Hygiene,premium,906,157,0,1,0,0,0,4,87.6,30.8
+2025-08,Home Care & Cleaning,mass,1200,111,0,1,0,0,0,4,87.6,30.8
+2025-08,Baby Care,premium,402,189,0,1,0,0,0,4,87.6,30.8
+2025-08,Frozen & Ready-to-eat,premium,506,119,0,1,0,0,0,4,87.6,30.8
+2025-08,Confectionery & Chocolates,mass,1261,56,0,1,0,0,0,4,87.6,30.8
+2025-09,Staples (Atta/Rice/Dal),economy,2777,71,0,1,0,0,0,4,87.5,31.2
+2025-09,Dairy & Bakery,mass,2430,62,0,1,0,0,0,4,87.5,31.2
+2025-09,Fruits & Vegetables,mass,3233,52,0,1,0,0,0,4,87.5,31.2
+2025-09,Snacks & Packaged Foods,mass,2060,45,0,1,0,0,0,4,87.5,31.2
+2025-09,Beverages (Tea/Coffee/Soft Drinks),mass,1867,76,0,1,0,0,0,4,87.5,31.2
+2025-09,Personal Care & Hygiene,premium,916,154,0,1,0,0,0,4,87.5,31.2
+2025-09,Home Care & Cleaning,mass,1270,110,0,1,0,0,0,4,87.5,31.2
+2025-09,Baby Care,premium,397,186,0,1,0,0,0,4,87.5,31.2
+2025-09,Frozen & Ready-to-eat,premium,518,123,0,1,0,0,0,4,87.5,31.2
+2025-09,Confectionery & Chocolates,mass,1273,58,0,1,0,0,0,4,87.5,31.2
+2025-10,Staples (Atta/Rice/Dal),economy,3342,72,1,0,0,0,0,4,89.0,32.0
+2025-10,Dairy & Bakery,mass,3590,56,1,0,0,0,1,4,89.0,32.0
+2025-10,Fruits & Vegetables,mass,3838,49,1,0,0,0,0,4,89.0,32.0
+2025-10,Snacks & Packaged Foods,mass,3629,43,1,0,0,0,1,4,89.0,32.0
+2025-10,Beverages (Tea/Coffee/Soft Drinks),mass,2422,78,1,0,0,0,0,4,89.0,32.0
+2025-10,Personal Care & Hygiene,premium,1129,149,1,0,0,0,0,4,89.0,32.0
+2025-10,Home Care & Cleaning,mass,1483,102,1,0,0,0,1,4,89.0,32.0
+2025-10,Baby Care,premium,459,189,1,0,0,0,0,4,89.0,32.0
+2025-10,Frozen & Ready-to-eat,premium,729,114,1,0,0,0,1,4,89.0,32.0
+2025-10,Confectionery & Chocolates,mass,2095,58,1,0,0,0,0,4,89.0,32.0
+2025-11,Staples (Atta/Rice/Dal),economy,3211,69,1,0,0,0,0,4,89.8,33.4
+2025-11,Dairy & Bakery,mass,2866,63,1,0,0,0,0,4,89.8,33.4
+2025-11,Fruits & Vegetables,mass,4767,48,1,0,0,0,1,4,89.8,33.4
+2025-11,Snacks & Packaged Foods,mass,3125,44,1,0,0,0,0,4,89.8,33.4
+2025-11,Beverages (Tea/Coffee/Soft Drinks),mass,2458,75,1,0,0,0,0,4,89.8,33.4
+2025-11,Personal Care & Hygiene,premium,1362,144,1,0,0,0,1,4,89.8,33.4
+2025-11,Home Care & Cleaning,mass,1346,111,1,0,0,0,0,4,89.8,33.4
+2025-11,Baby Care,premium,451,189,1,0,0,0,0,4,89.8,33.4
+2025-11,Frozen & Ready-to-eat,premium,575,121,1,0,0,0,0,4,89.8,33.4
+2025-11,Confectionery & Chocolates,mass,2458,53,1,0,0,0,1,4,89.8,33.4
+2025-12,Staples (Atta/Rice/Dal),economy,2920,71,0,0,0,0,0,4,90.2,34.6
+2025-12,Dairy & Bakery,mass,2630,62,0,0,0,0,0,4,90.2,34.6
+2025-12,Fruits & Vegetables,mass,3794,50,0,0,0,0,0,4,90.2,34.6
+2025-12,Snacks & Packaged Foods,mass,2359,44,0,0,0,0,0,4,90.2,34.6
+2025-12,Beverages (Tea/Coffee/Soft Drinks),mass,1874,77,0,0,0,0,0,4,90.2,34.6
+2025-12,Personal Care & Hygiene,premium,1006,157,0,0,0,0,0,4,90.2,34.6
+2025-12,Home Care & Cleaning,mass,1184,106,0,0,0,0,0,4,90.2,34.6
+2025-12,Baby Care,premium,415,193,0,0,0,0,0,4,90.2,34.6
+2025-12,Frozen & Ready-to-eat,premium,510,122,0,0,0,0,0,4,90.2,34.6
+2025-12,Confectionery & Chocolates,mass,1416,59,0,0,0,0,0,4,90.2,34.6
+2026-01,Staples (Atta/Rice/Dal),economy,2981,72,0,0,0,0,0,4,91.6,34.7
+2026-01,Dairy & Bakery,mass,2723,61,0,0,0,0,0,4,91.6,34.7
+2026-01,Fruits & Vegetables,mass,4001,52,0,0,0,0,0,4,91.6,34.7
+2026-01,Snacks & Packaged Foods,mass,2197,45,0,0,0,0,0,4,91.6,34.7
+2026-01,Beverages (Tea/Coffee/Soft Drinks),mass,2569,72,0,0,0,0,1,4,91.6,34.7
+2026-01,Personal Care & Hygiene,premium,1039,153,0,0,0,0,0,4,91.6,34.7
+2026-01,Home Care & Cleaning,mass,1257,108,0,0,0,0,0,4,91.6,34.7
+2026-01,Baby Care,premium,411,187,0,0,0,0,0,4,91.6,34.7
+2026-01,Frozen & Ready-to-eat,premium,529,119,0,0,0,0,0,4,91.6,34.7
+2026-01,Confectionery & Chocolates,mass,1450,58,0,0,0,0,0,4,91.6,34.7
+2026-02,Staples (Atta/Rice/Dal),economy,3260,71,0,0,0,0,0,4,91.9,34.7
+2026-02,Dairy & Bakery,mass,2629,62,0,0,0,0,0,4,91.9,34.7
+2026-02,Fruits & Vegetables,mass,3639,50,0,0,0,0,0,4,91.9,34.7
+2026-02,Snacks & Packaged Foods,mass,2275,44,0,0,0,0,0,4,91.9,34.7
+2026-02,Beverages (Tea/Coffee/Soft Drinks),mass,2141,76,0,0,0,0,0,4,91.9,34.7
+2026-02,Personal Care & Hygiene,premium,976,154,0,0,0,0,0,4,91.9,34.7
+2026-02,Home Care & Cleaning,mass,1147,106,0,0,0,0,0,4,91.9,34.7
+2026-02,Baby Care,premium,427,191,0,0,0,0,0,4,91.9,34.7
+2026-02,Frozen & Ready-to-eat,premium,560,120,0,0,0,0,0,4,91.9,34.7
+2026-02,Confectionery & Chocolates,mass,1771,54,0,0,0,0,1,4,91.9,34.7
+2026-03,Staples (Atta/Rice/Dal),economy,3949,68,1,0,0,0,1,4,92.2,34.7
+2026-03,Dairy & Bakery,mass,3022,61,1,0,0,0,0,4,92.2,34.7
+2026-03,Fruits & Vegetables,mass,4216,51,1,0,0,0,0,4,92.2,34.7
+2026-03,Snacks & Packaged Foods,mass,3829,43,1,0,0,0,1,4,92.2,34.7
+2026-03,Beverages (Tea/Coffee/Soft Drinks),mass,2321,76,1,0,0,0,0,4,92.2,34.7
+2026-03,Personal Care & Hygiene,premium,1087,153,1,0,0,0,0,4,92.2,34.7
+2026-03,Home Care & Cleaning,mass,1612,103,1,0,0,0,1,4,92.2,34.7
+2026-03,Baby Care,premium,457,189,1,0,0,0,0,4,92.2,34.7
+2026-03,Frozen & Ready-to-eat,premium,575,119,1,0,0,0,0,4,92.2,34.7
+2026-03,Confectionery & Chocolates,mass,2011,57,1,0,0,0,0,4,92.2,34.7

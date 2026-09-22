@@ -1,0 +1,121 @@
+month,product_series,forecast_units,lower_95,upper_95
+2026-04-01,Baby Care,423,365,482
+2026-05-01,Baby Care,417,358,476
+2026-06-01,Baby Care,480,421,538
+2026-07-01,Baby Care,482,423,540
+2026-08-01,Baby Care,416,358,475
+2026-09-01,Baby Care,419,360,477
+2026-10-01,Baby Care,499,441,558
+2026-11-01,Baby Care,470,411,529
+2026-12-01,Baby Care,448,390,507
+2027-01-01,Baby Care,419,360,477
+2027-02-01,Baby Care,436,378,495
+2027-03-01,Baby Care,461,402,519
+2026-04-01,Beverages (Tea/Coffee/Soft Drinks),2214,1879,2548
+2026-05-01,Beverages (Tea/Coffee/Soft Drinks),2085,1751,2420
+2026-06-01,Beverages (Tea/Coffee/Soft Drinks),2249,1914,2583
+2026-07-01,Beverages (Tea/Coffee/Soft Drinks),2287,1952,2621
+2026-08-01,Beverages (Tea/Coffee/Soft Drinks),2105,1771,2439
+2026-09-01,Beverages (Tea/Coffee/Soft Drinks),2219,1884,2553
+2026-10-01,Beverages (Tea/Coffee/Soft Drinks),2655,2321,2989
+2026-11-01,Beverages (Tea/Coffee/Soft Drinks),2595,2260,2929
+2026-12-01,Beverages (Tea/Coffee/Soft Drinks),2423,2088,2757
+2027-01-01,Beverages (Tea/Coffee/Soft Drinks),2587,2253,2921
+2027-02-01,Beverages (Tea/Coffee/Soft Drinks),2393,2058,2727
+2027-03-01,Beverages (Tea/Coffee/Soft Drinks),2539,2205,2874
+2026-04-01,Confectionery & Chocolates,1588,1355,1821
+2026-05-01,Confectionery & Chocolates,1503,1270,1736
+2026-06-01,Confectionery & Chocolates,1402,1168,1635
+2026-07-01,Confectionery & Chocolates,1259,1026,1492
+2026-08-01,Confectionery & Chocolates,1314,1081,1547
+2026-09-01,Confectionery & Chocolates,1310,1077,1544
+2026-10-01,Confectionery & Chocolates,2001,1768,2235
+2026-11-01,Confectionery & Chocolates,2193,1960,2426
+2026-12-01,Confectionery & Chocolates,1511,1278,1745
+2027-01-01,Confectionery & Chocolates,1419,1186,1652
+2027-02-01,Confectionery & Chocolates,1644,1411,1877
+2027-03-01,Confectionery & Chocolates,1960,1727,2193
+2026-04-01,Dairy & Bakery,2876,2487,3264
+2026-05-01,Dairy & Bakery,2781,2392,3169
+2026-06-01,Dairy & Bakery,2807,2419,3196
+2026-07-01,Dairy & Bakery,2746,2358,3135
+2026-08-01,Dairy & Bakery,2776,2388,3165
+2026-09-01,Dairy & Bakery,2774,2385,3163
+2026-10-01,Dairy & Bakery,3290,2901,3679
+2026-11-01,Dairy & Bakery,3472,3084,3861
+2026-12-01,Dairy & Bakery,3153,2764,3542
+2027-01-01,Dairy & Bakery,3280,2892,3669
+2027-02-01,Dairy & Bakery,3151,2762,3539
+2027-03-01,Dairy & Bakery,3673,3284,4062
+2026-04-01,Frozen & Ready-to-eat,629,484,774
+2026-05-01,Frozen & Ready-to-eat,619,474,764
+2026-06-01,Frozen & Ready-to-eat,622,477,767
+2026-07-01,Frozen & Ready-to-eat,631,486,776
+2026-08-01,Frozen & Ready-to-eat,635,490,780
+2026-09-01,Frozen & Ready-to-eat,638,493,783
+2026-10-01,Frozen & Ready-to-eat,777,632,921
+2026-11-01,Frozen & Ready-to-eat,713,568,858
+2026-12-01,Frozen & Ready-to-eat,672,527,817
+2027-01-01,Frozen & Ready-to-eat,675,530,820
+2027-02-01,Frozen & Ready-to-eat,674,529,819
+2027-03-01,Frozen & Ready-to-eat,706,561,851
+2026-04-01,Fruits & Vegetables,3303,2745,3860
+2026-05-01,Fruits & Vegetables,3297,2739,3854
+2026-06-01,Fruits & Vegetables,3280,2723,3838
+2026-07-01,Fruits & Vegetables,3282,2724,3839
+2026-08-01,Fruits & Vegetables,3290,2732,3847
+2026-09-01,Fruits & Vegetables,3290,2732,3847
+2026-10-01,Fruits & Vegetables,3807,3250,4365
+2026-11-01,Fruits & Vegetables,3766,3208,4323
+2026-12-01,Fruits & Vegetables,3363,2805,3920
+2027-01-01,Fruits & Vegetables,3373,2815,3930
+2027-02-01,Fruits & Vegetables,3373,2815,3930
+2027-03-01,Fruits & Vegetables,3761,3203,4318
+2026-04-01,Home Care & Cleaning,1358,1198,1519
+2026-05-01,Home Care & Cleaning,1201,1040,1362
+2026-06-01,Home Care & Cleaning,1324,1163,1485
+2026-07-01,Home Care & Cleaning,1269,1108,1430
+2026-08-01,Home Care & Cleaning,1211,1051,1372
+2026-09-01,Home Care & Cleaning,1240,1079,1401
+2026-10-01,Home Care & Cleaning,1297,1137,1458
+2026-11-01,Home Care & Cleaning,1230,1069,1391
+2026-12-01,Home Care & Cleaning,1142,981,1303
+2027-01-01,Home Care & Cleaning,1219,1059,1380
+2027-02-01,Home Care & Cleaning,1171,1010,1332
+2027-03-01,Home Care & Cleaning,1557,1396,1718
+2026-04-01,Personal Care & Hygiene,1006,823,1190
+2026-05-01,Personal Care & Hygiene,991,807,1175
+2026-06-01,Personal Care & Hygiene,990,807,1174
+2026-07-01,Personal Care & Hygiene,985,801,1168
+2026-08-01,Personal Care & Hygiene,987,803,1170
+2026-09-01,Personal Care & Hygiene,986,802,1170
+2026-10-01,Personal Care & Hygiene,1224,1040,1408
+2026-11-01,Personal Care & Hygiene,1243,1060,1427
+2026-12-01,Personal Care & Hygiene,1060,876,1244
+2027-01-01,Personal Care & Hygiene,1143,959,1327
+2027-02-01,Personal Care & Hygiene,1073,889,1257
+2027-03-01,Personal Care & Hygiene,1153,969,1336
+2026-04-01,Snacks & Packaged Foods,2589,2243,2935
+2026-05-01,Snacks & Packaged Foods,2565,2219,2911
+2026-06-01,Snacks & Packaged Foods,2629,2283,2975
+2026-07-01,Snacks & Packaged Foods,2622,2276,2968
+2026-08-01,Snacks & Packaged Foods,2553,2207,2899
+2026-09-01,Snacks & Packaged Foods,2481,2135,2827
+2026-10-01,Snacks & Packaged Foods,3269,2923,3615
+2026-11-01,Snacks & Packaged Foods,3302,2956,3648
+2026-12-01,Snacks & Packaged Foods,2684,2338,3030
+2027-01-01,Snacks & Packaged Foods,2688,2342,3034
+2027-02-01,Snacks & Packaged Foods,2689,2343,3035
+2027-03-01,Snacks & Packaged Foods,3391,3045,3737
+2026-04-01,Staples (Atta/Rice/Dal),3318,3049,3587
+2026-05-01,Staples (Atta/Rice/Dal),3311,3042,3580
+2026-06-01,Staples (Atta/Rice/Dal),3272,3003,3541
+2026-07-01,Staples (Atta/Rice/Dal),3115,2846,3384
+2026-08-01,Staples (Atta/Rice/Dal),3229,2960,3498
+2026-09-01,Staples (Atta/Rice/Dal),3238,2969,3507
+2026-10-01,Staples (Atta/Rice/Dal),3758,3489,4027
+2026-11-01,Staples (Atta/Rice/Dal),3756,3487,4025
+2026-12-01,Staples (Atta/Rice/Dal),3355,3086,3624
+2027-01-01,Staples (Atta/Rice/Dal),3365,3096,3634
+2027-02-01,Staples (Atta/Rice/Dal),3373,3104,3642
+2027-03-01,Staples (Atta/Rice/Dal),3765,3496,4034
